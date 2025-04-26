@@ -56,7 +56,7 @@
 
 <br clear="both">
 
-<img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhqdjU4Nm93a2ZjdWNibm9ta2pkYnRjNTNkZGZ3ZHU5eWRtanhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<img align="right" height="160" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhqdjU4Nm93a2ZjdWNibm9ta2pkYnRjNTNkZGZ3ZHU5eWRtanhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
 
