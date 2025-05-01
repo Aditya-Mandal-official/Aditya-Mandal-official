@@ -1,4 +1,7 @@
-<h1 align="left">Hi 👋! My name is Aditya Mandal and I'm a Web Developer, from Kolkata</h1>
+<h1 align="left">🌐 I'm a passionate **Web Developer** based in **Kolkata, India**.  
+💻 I love building clean, functional, and user-friendly web applications.  
+📚 Always learning something new — currently diving deeper into **Php**, **Laravel**, **React**.  
+🚀 Let's connect and create something amazing together!</h1>
 
 ###
 
