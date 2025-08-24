@@ -69,9 +69,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Aditya-mandal-official/Aditya-mandal-official/output/snake.svg" alt="Snake animation" />
-
-###
