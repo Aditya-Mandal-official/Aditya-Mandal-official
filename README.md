@@ -37,8 +37,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Mandal-official&theme=github_dark"  width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Mandal-official&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Mandal-official&theme=github_dark"  width="58%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Mandal-official&theme=github-dark&hide_border=true" width="41%" />
 </p>
 
 <p align="center">
