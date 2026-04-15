@@ -1,71 +1,94 @@
-<h1 align="left">Hi 👋! My name is Aditya Mandal and I'm a Web Developer, from Kolkata</h1>
+<!-- 🔷 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Aditya%20Mandal&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-###
+<!-- 🔥 PROFESSIONAL TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1E90FF&center=true&vCenter=true&width=900&lines=Aditya+Mandal+Web+Developer;Full+Stack+Developer+(Laravel+%2B+Node.js);API+Development+%7C+Backend+Engineering;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+Focused" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="30" alt="codeigniter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
-</div>
+<h3 align="center">Full Stack Developer | Laravel + Node.js | API Specialist</h3>
 
-###
+<p align="center">
+  📍 Kolkata, India &nbsp; | &nbsp; 💼 3+ Years Experience &nbsp; | &nbsp; ⚡ Scalable Systems
+</p>
 
-<div align="left">
-  <a href="https://www.youtube.com/@aditya-mandal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Working on **Laravel & Node.js applications**
+- 🌱 Learning **React.js & System Design**
+- ⚡ Specialized in **REST APIs & backend architecture**
+- 🧠 Focused on **clean code & performance**
+- 🎯 Goal: **Senior Full Stack Developer**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,bootstrap,mysql,mongodb,git,github,docker,vscode,postman" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Mandal-official&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Mandal-official&theme=github-dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Mandal-official&theme=github-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aditya-Mandal-official/Aditya-Mandal-official/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://adityamandal.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:adityamanal8617@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/aditya-mandal">
+    <img src="https://img.shields.io/badge/LinkedIn-2a5298?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/aditya-mandal/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://leetcode.com/u/adityamandal8617/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-</div>
+  <a href="https://www.hackerrank.com/profile/adityamandal">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+## 👀 Profile Views
 
-<img align="right" height="165" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhqdjU4Nm93a2ZjdWNibm9ta2pkYnRjNTNkZGZ3ZHU5eWRtanhkaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aditya-Mandal-official&label=Aditya%20Mandal%20Views&color=1e3c72&style=for-the-badge" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditya-mandal-official&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-mandal-official&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Aditya-mandal-official&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="259" alt="streak graph"  />
-</div>
+## 💡 About Aditya Mandal
 
-###
+Aditya Mandal is a Full Stack Web Developer specializing in Laravel and Node.js.  
+He builds scalable, high-performance web applications and APIs.
+
+---
+
+⭐ **Explore repositories for real-world development work.**
