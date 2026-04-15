@@ -29,9 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,js,html,css,bootstrap,mysql,mongodb,git,github,docker,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,js,html,css,bootstrap,mysql,mongodb,git,github,docker,vscode,postman" />
 </p>
 
 ---
