@@ -39,12 +39,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Mandal-official&show_icons=true&theme=github_dark&hide_border=true" width="48%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Mandal-official&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Mandal-official&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Mandal-official&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Mandal-official&theme=github-dark&area=true&hide_border=true" />
 </p>
 
 ---
