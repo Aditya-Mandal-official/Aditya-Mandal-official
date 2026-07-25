@@ -11,7 +11,7 @@
 <h3 align="center">Full Stack Developer | Laravel + Node.js | API Specialist</h3>
 
 <p align="center">
-  📍 Kolkata, India &nbsp; | &nbsp; 💼 3+ Years Experience &nbsp; | &nbsp; ⚡ Scalable Systems
+  📍 Kolkata, India &nbsp; | &nbsp; 💼 4+ Years Experience &nbsp; | &nbsp; ⚡ Scalable Systems
 </p>
 
 ---
