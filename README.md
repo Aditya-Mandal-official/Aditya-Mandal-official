@@ -46,9 +46,10 @@ I'm currently sharpening my **React and system design** skills as I grow toward 
 
 <p align="center">
   <a href="https://github.com/AdityaMandalDev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMandalDev&amp;bg_color=111116&amp;color=B2ADBF&amp;line=C2AFFA&amp;point=D7F5A3&amp;area=true&amp;area_color=C2AFFA&amp;hide_border=true&amp;radius=16&amp;custom_title=Contribution%20activity" width="100%" alt="AdityaMandalDev's recent GitHub contribution activity" />
+    <img src="https://ghchart.rshah.org/C2AFFA/AdityaMandalDev" width="100%" alt="AdityaMandalDev's GitHub contribution calendar" />
   </a>
 </p>
+<p align="center"><a href="https://github.com/AdityaMandalDev?tab=overview">View contribution activity on GitHub →</a></p>
 
 <details>
   <summary><strong>Watch my contributions come to life</strong></summary>
