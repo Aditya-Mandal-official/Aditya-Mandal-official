@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" fill="none" role="img" aria-labelledby="title">
+<title id="title">Aditya Mandal — Full Stack Developer based in Kolkata, India. 4+ years building for the web.</title>
+<g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+
+<defs>
+  <radialGradient id="glow"><stop stop-color="#7161C9" stop-opacity=".3"/><stop offset="1" stop-color="#7161C9" stop-opacity="0"/></radialGradient>
+  <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#29283F"/><stop offset="1" stop-color="#191925"/></linearGradient>
+  <clipPath id="clip"><rect x="1" y="1" width="1198" height="498" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="500" fill="#111116"/>
+  <ellipse cx="980" cy="210" rx="440" ry="360" fill="url(#glow)"/>
+  <path d="M740 0V414M0 414H1200" stroke="#FFFFFF" stroke-opacity=".09"/>
+  <text x="58" y="57" fill="#D7F5A3" font-size="17" font-weight="600" letter-spacing="3">AD / ENGINEERING FOR THE WEB</text>
+  <circle cx="1067" cy="51" r="4" fill="#D7F5A3"/>
+  <text x="1082" y="57" fill="#ABA8BF" font-size="15">KOLKATA</text>
+  <text x="53" y="162" fill="#F5F3EE" font-size="88" font-weight="750" letter-spacing="-4">Aditya</text>
+  <text x="53" y="253" fill="#C2AFFA" font-size="88" font-weight="750" letter-spacing="-4">Mandal.</text>
+  <text x="58" y="305" fill="#F5F3EE" font-size="27" font-weight="500">Full Stack Developer</text>
+  <text x="58" y="349" fill="#ABA8BF" font-size="21">Thoughtful architecture. Reliable applications.</text>
+  <g transform="translate(795 110)">
+    <ellipse cx="160" cy="143" rx="182" ry="143" stroke="#C2AFFA" stroke-opacity=".16"/>
+    <ellipse cx="160" cy="143" rx="142" ry="110" stroke="#C2AFFA" stroke-opacity=".1"/>
+    <rect x="53" y="63" width="260" height="202" rx="16" fill="#17171F" stroke="#4F456D" transform="rotate(8 183 164)"/>
+    <rect x="30" y="43" width="260" height="202" rx="16" fill="#20202E" stroke="#655586" transform="rotate(-5 160 144)"/>
+    <rect x="12" y="18" width="282" height="202" rx="16" fill="url(#panel)" stroke="#8C76B4"/>
+    <path d="M12 59H294" stroke="#4A405F"/>
+    <circle cx="33" cy="39" r="4" fill="#C2AFFA"/><circle cx="48" cy="39" r="4" fill="#777088"/><circle cx="63" cy="39" r="4" fill="#777088"/>
+    <text x="268" y="44" fill="#ABA8BF" font-size="12" text-anchor="end" letter-spacing="2">THE STACK</text>
+    <text x="36" y="98" fill="#D7F5A3" font-size="18" font-family="monospace">&lt;build&gt;</text>
+    <text x="56" y="129" fill="#F5F3EE" font-size="21" font-weight="600">Laravel + Node.js</text>
+    <text x="56" y="157" fill="#ABA8BF" font-size="17">APIs → experiences</text>
+    <text x="36" y="191" fill="#D7F5A3" font-size="18" font-family="monospace">&lt;/build&gt;</text>
+  </g>
+  <g font-size="17">
+    <text x="58" y="463" fill="#F5F3EE" font-weight="600">4+ YEARS <tspan fill="#858294" font-weight="400">/ EXPERIENCE</tspan></text>
+    <text x="450" y="463" fill="#F5F3EE" font-weight="600">BACKEND <tspan fill="#858294" font-weight="400">/ SPECIALTY</tspan></text>
+    <text x="846" y="463" fill="#F5F3EE" font-weight="600">FULL STACK <tspan fill="#858294" font-weight="400">/ MINDSET</tspan></text>
+  </g>
+</g>
+<rect x="1" y="1" width="1198" height="498" rx="24" stroke="#35313F"/>
+
+</g>
+</svg>

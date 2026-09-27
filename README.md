@@ -1,92 +1,76 @@
-<!-- 🔷 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Aditya%20Mandal&fontSize=38&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<!-- 🔥 PROFESSIONAL TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1E90FF&center=true&vCenter=true&width=900&lines=Aditya+Mandal+Web+Developer;Full+Stack+Developer+(Laravel+%2B+Node.js);API+Development+%7C+Backend+Engineering;Building+Scalable+Web+Applications;Clean+Code+%7C+Performance+Focused" />
-</p>
-
-<h3 align="center">Full Stack Developer | Laravel + Node.js | API Specialist</h3>
-
-<p align="center">
-  📍 Kolkata, India &nbsp; | &nbsp; 💼 4+ Years Experience &nbsp; | &nbsp; ⚡ Scalable Systems
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Working on **Laravel & Node.js applications**
-- 🌱 Learning **React.js & System Design**
-- ⚡ Specialized in **REST APIs & backend architecture**
-- 🧠 Focused on **clean code & performance**
-- 🎯 Goal: **Senior Full Stack Developer**
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,js,html,css,bootstrap,mysql,mongodb,git,github,docker,vscode,postman" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Mandal-official&theme=github_dark"  width="58%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Mandal-official&theme=github-dark&hide_border=true" width="41%" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Aditya Mandal — Full Stack Developer. 4+ years of experience. Backend specialist based in Kolkata, India." />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Mandal-official&theme=github-dark&area=true&hide_border=true" />
+  <a href="https://adityamandal.dev/"><img src="https://img.shields.io/badge/Portfolio-D7F5A3?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=1B2515" alt="Visit my portfolio" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aditya-mandal"><img src="https://img.shields.io/badge/LinkedIn-C2AFFA?style=for-the-badge&amp;logoColor=111116" alt="Connect on LinkedIn" /></a>
+  &nbsp;
+  <a href="https://github.com/AdityaMandalDev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24232E?style=for-the-badge&amp;logo=github&amp;logoColor=F5F3EE" alt="Explore my repositories" /></a>
 </p>
 
----
+<br />
 
-## 🐍 Contribution Snake
+### A little context
+
+I'm **Aditya**, a full stack developer who enjoys turning complex requirements into straightforward web applications. My core work is in **Laravel, Node.js, and REST APIs**, with a focus on backend architecture, maintainable code, and performance.
+
+I'm currently sharpening my **React and system design** skills as I grow toward a senior full stack role.
+
+<br />
+
+### Where I focus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-Mandal-official/Aditya-Mandal-official/output/github-contribution-grid-snake.svg" />
+  <img src="./assets/backend.svg" width="280" alt="Backend engineering: Laravel, Node.js, Express, REST APIs, integrations, and maintainable architecture." />
+  <img src="./assets/frontend.svg" width="280" alt="Web experiences: JavaScript, HTML, CSS, Bootstrap, and ongoing React learning." />
+  <img src="./assets/workflow.svg" width="280" alt="Data and workflow: MySQL, MongoDB, Git, Docker, Postman, and performance-minded development." />
 </p>
 
----
+<br />
 
-## 🌐 Connect
+### My everyday toolkit
 
 <p align="center">
-  <a href="https://adityamandal.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-1e3c72?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-mandal">
-    <img src="https://img.shields.io/badge/LinkedIn-2a5298?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/adityamandal8617/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/adityamandal">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,mysql,mongodb&amp;theme=dark" alt="PHP, Laravel, Node.js, Express, JavaScript, MySQL, and MongoDB" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,docker,postman,vscode&amp;theme=dark" alt="HTML, CSS, Bootstrap, Git, Docker, Postman, and VS Code" />
+</p>
+<p align="center"><sub>EXPLORING NEXT &nbsp; / &nbsp; React &amp; system design</sub></p>
+
+<br />
+
+### Code in motion
+
+<p align="center">
+  <a href="https://github.com/AdityaMandalDev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaMandalDev&amp;bg_color=111116&amp;color=B2ADBF&amp;line=C2AFFA&amp;point=D7F5A3&amp;area=true&amp;area_color=C2AFFA&amp;hide_border=true&amp;radius=16&amp;custom_title=Contribution%20activity" width="100%" alt="AdityaMandalDev's recent GitHub contribution activity" />
   </a>
 </p>
 
----
+<details>
+  <summary><strong>Watch my contributions come to life</strong></summary>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaMandalDev/AdityaMandalDev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdityaMandalDev/AdityaMandalDev/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/AdityaMandalDev/AdityaMandalDev/output/github-contribution-grid-snake.svg" width="100%" alt="An animated snake tracing my GitHub contribution grid" />
+  </picture>
+</details>
 
-## 👀 Profile Views
+<br />
+<br />
+
+<a href="https://adityamandal.dev/">
+  <img src="./assets/connect.svg" width="100%" alt="Let's build something thoughtful — visit adityamandal.dev" />
+</a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aditya-Mandal-official&label=Aditya%20Mandal%20Views&color=1e3c72&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/aditya-mandal">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://leetcode.com/u/adityamandal8617/">LeetCode</a> &nbsp; / &nbsp;
+  <a href="https://www.hackerrank.com/profile/adityamandal">HackerRank</a>
 </p>
 
----
-
-## 💡 About Aditya Mandal
-
-Aditya Mandal is a Full Stack Web Developer specializing in Laravel and Node.js.  
-He builds scalable, high-performance web applications and APIs.
-
----
-
-⭐ **Explore repositories for real-world development work.**
+<p align="center"><sub>Built with care. Always learning.</sub></p>
