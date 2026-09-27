@@ -3,56 +3,71 @@
 </p>
 
 <p align="center">
-  <a href="https://adityamandal.dev/"><img src="https://img.shields.io/badge/Portfolio-D7F5A3?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=1B2515" alt="Visit my portfolio" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/aditya-mandal"><img src="https://img.shields.io/badge/LinkedIn-C2AFFA?style=for-the-badge&amp;logoColor=111116" alt="Connect on LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/AdityaMandalDev?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24232E?style=for-the-badge&amp;logo=github&amp;logoColor=F5F3EE" alt="Explore my repositories" /></a>
+  <a href="https://adityamandal.dev/"><img src="./assets/portfolio.svg" width="220" alt="Explore my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aditya-mandal"><img src="./assets/linkedin.svg" width="220" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/AdityaMandalDev?tab=repositories"><img src="./assets/repositories.svg" width="220" alt="Browse my repositories" /></a>
 </p>
 
 <br />
 
-### A little context
-
-I'm **Aditya**, a full stack developer who enjoys turning complex requirements into straightforward web applications. My core work is in **Laravel, Node.js, and REST APIs**, with a focus on backend architecture, maintainable code, and performance.
-
-I'm currently sharpening my **React and system design** skills as I grow toward a senior full stack role.
-
-<br />
-
-### Where I focus
+<p align="center"><sub>01 &nbsp; / &nbsp; THE DEVELOPER</sub></p>
+<h2 align="center">Behind the code</h2>
 
 <p align="center">
-  <img src="./assets/backend.svg" width="280" alt="Backend engineering: Laravel, Node.js, Express, REST APIs, integrations, and maintainable architecture." />
-  <img src="./assets/frontend.svg" width="280" alt="Web experiences: JavaScript, HTML, CSS, Bootstrap, and ongoing React learning." />
-  <img src="./assets/workflow.svg" width="280" alt="Data and workflow: MySQL, MongoDB, Git, Docker, Postman, and performance-minded development." />
+  I'm <strong>Aditya</strong>, a full stack developer based in <strong>Kolkata, India</strong>.<br />
+  I turn complex requirements into straightforward web applications,<br />
+  with <strong>Laravel, Node.js, and REST APIs</strong> at the heart of my work.
+</p>
+<p align="center">
+  Clear architecture. Maintainable code. Performance that matters.
 </p>
 
 <br />
 
-### My everyday toolkit
+<p align="center"><sub>02 &nbsp; / &nbsp; FOCUS &amp; CRAFT</sub></p>
+<h2 align="center">From the backend to the browser</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,js,mysql,mongodb&amp;theme=dark" alt="PHP, Laravel, Node.js, Express, JavaScript, MySQL, and MongoDB" />
+  <img src="./assets/backend.svg" width="380" alt="Backend engineering: Laravel, Node.js, Express, REST APIs, integrations, and maintainable architecture." />
+  <img src="./assets/frontend.svg" width="380" alt="Web experiences: JavaScript, HTML, CSS, Bootstrap, and ongoing React learning." />
+  <img src="./assets/workflow.svg" width="380" alt="Data and workflow: MySQL, MongoDB, Git, Docker, Postman, and performance-minded development." />
+  <img src="./assets/learning.svg" width="380" alt="Currently exploring React and system design while growing toward a senior full stack role." />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,git,docker,postman,vscode&amp;theme=dark" alt="HTML, CSS, Bootstrap, Git, Docker, Postman, and VS Code" />
-</p>
-<p align="center"><sub>EXPLORING NEXT &nbsp; / &nbsp; React &amp; system design</sub></p>
 
 <br />
 
-### Code in motion
+<p align="center"><sub>03 &nbsp; / &nbsp; THE TOOLKIT</sub></p>
+<h2 align="center">Tools I build with</h2>
 
+<p align="center"><strong>Backend &amp; data</strong></p>
 <p align="center">
-  <a href="https://github.com/AdityaMandalDev">
-    <img src="https://ghchart.rshah.org/C2AFFA/AdityaMandalDev" width="100%" alt="AdityaMandalDev's GitHub contribution calendar" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb&amp;theme=dark" alt="PHP, Laravel, Node.js, Express, MySQL, and MongoDB" />
 </p>
-<p align="center"><a href="https://github.com/AdityaMandalDev?tab=overview">View contribution activity on GitHub →</a></p>
+<p align="center"><strong>Frontend &amp; workflow</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,git,docker,postman,vscode&amp;theme=dark" alt="JavaScript, HTML, CSS, Bootstrap, Git, Docker, Postman, and VS Code" />
+</p>
+
+<br />
+
+<p align="center"><sub>04 &nbsp; / &nbsp; BUILDING IN PUBLIC</sub></p>
+<h2 align="center">Code in motion</h2>
+
+<table width="100%">
+  <tr>
+    <td>
+      <h3>My contribution calendar</h3>
+      <p>A little progress, one commit at a time.</p>
+      <a href="https://github.com/AdityaMandalDev?tab=overview">
+        <img src="https://ghchart.rshah.org/C2AFFA/AdityaMandalDev" width="100%" alt="AdityaMandalDev's GitHub contribution calendar" />
+      </a>
+      <p><a href="https://github.com/AdityaMandalDev?tab=overview">Explore activity on GitHub ↗</a></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-  <summary><strong>Watch my contributions come to life</strong></summary>
+  <summary><strong>A different view of my contributions</strong> &nbsp; · &nbsp; Watch the animation</summary>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdityaMandalDev/AdityaMandalDev/output/github-contribution-grid-snake-dark.svg" />
@@ -74,4 +89,4 @@ I'm currently sharpening my **React and system design** skills as I grow toward 
   <a href="https://www.hackerrank.com/profile/adityamandal">HackerRank</a>
 </p>
 
-<p align="center"><sub>Built with care. Always learning.</sub></p>
+<p align="center"><sub>Crafted with curiosity, from Kolkata.</sub></p>

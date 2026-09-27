@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240" fill="none" role="img" aria-labelledby="title">
 <title id="title">Web experiences: JavaScript · HTML · CSS; Bootstrap for interface development; Currently deepening my React skills</title>
 <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-<rect x="1" y="1" width="358" height="238" rx="18" fill="#17171F" stroke="#35313F"/>
+<rect x="1" y="1" width="358" height="238" rx="18" fill="#1C251D" stroke="#35313F"/>
+<path d="M24 1H100" stroke="#D7F5A3" stroke-width="2"/>
 <rect x="18" y="22" width="40" height="44" rx="10" fill="#D7F5A3" fill-opacity=".08"/>
 <g stroke="#D7F5A3" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="21" y="31" width="34" height="26" rx="3"/><path d="M21 39H55M32 39V57"/></g>
 <text x="331" y="48" fill="#858294" font-size="14" text-anchor="end" letter-spacing="2">02</text>

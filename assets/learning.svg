@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="240" viewBox="0 0 360 240" fill="none" role="img" aria-labelledby="title"><title id="title">Currently exploring: React, component-driven interfaces, and system design.</title><g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+<rect x="1" y="1" width="358" height="238" rx="18" fill="#1B2330" stroke="#35313F"/>
+<path d="M24 1H100" stroke="#9BCBFA" stroke-width="2"/>
+<rect x="18" y="22" width="40" height="44" rx="10" fill="#9BCBFA" fill-opacity=".08"/>
+<g stroke="#9BCBFA" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M22 35L38 29L54 35L38 42Z M27 38V49Q38 58 49 49V38 M54 35V49"/></g>
+<text x="331" y="48" fill="#858294" font-size="14" text-anchor="end" letter-spacing="2">04</text>
+<text x="24" y="109" fill="#F5F3EE" font-size="23" font-weight="600">Always learning</text>
+<text x="24" y="150" fill="#B2ADBF" font-size="16">React &amp; component-driven interfaces</text>
+<text x="24" y="178" fill="#B2ADBF" font-size="16">System design &amp; scalability</text>
+<text x="24" y="206" fill="#B2ADBF" font-size="16">Growing toward senior full stack</text>
+</g></svg>
